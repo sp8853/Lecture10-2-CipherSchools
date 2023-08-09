@@ -1,0 +1,8 @@
+questions :
+what about the parameters we define inside a function 
+what happens to the parameters we pass to a function 
+difference between parameters an local variables 
+how do you swap 2 variables in c++
+what is parameter passing 
+passing by value 
+passing by reference
